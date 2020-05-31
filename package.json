@@ -1,0 +1,22 @@
+{
+  "name": "aerobot",
+  "version": "1.0.0",
+  "description": "A open-source discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlainDevelopment/Aero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PlainDevelopment/Aero/issues"
+  },
+  "homepage": "https://github.com/PlainDevelopment/Aero#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
